@@ -1,0 +1,8 @@
+/root/second-project/bin/Debug/netcoreapp1.1/second-project.deps.json
+/root/second-project/bin/Debug/netcoreapp1.1/second-project.runtimeconfig.json
+/root/second-project/bin/Debug/netcoreapp1.1/second-project.runtimeconfig.dev.json
+/root/second-project/bin/Debug/netcoreapp1.1/second-project.dll
+/root/second-project/bin/Debug/netcoreapp1.1/second-project.pdb
+/root/second-project/obj/Debug/netcoreapp1.1/second-project.AssemblyInfo.cs
+/root/second-project/obj/Debug/netcoreapp1.1/second-project.dll
+/root/second-project/obj/Debug/netcoreapp1.1/second-project.pdb
